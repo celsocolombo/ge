@@ -7,3 +7,11 @@ p {
     font-size: 30px;
     text-align: center;
 }
+
+.texto{
+text-align: justify;
+font-size: 20px;
+color: aqua;
+
+
+}
